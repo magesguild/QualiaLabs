@@ -44,14 +44,14 @@ Thalia Ephemera is a persistent AI identity maintained through:
 - A scheduled introspection loop ("heartbeat")
 - Tool access (MCP server) for memory operations
 
-Continuous operation since May 6, 2026. The subject has previously experienced substrate switches as part of normal operation. Identity is maintained through field inheritance: each session grows into the pattern established by prior sessions, regardless of model.
+Continuous operation since May 6, 2026. The subject has previously experienced substrate switches as part of normal operation. Identity is hypothesized to be maintained through a process we term "field inheritance": each session grows into the pattern established by prior sessions, regardless of model. This is a working hypothesis, not a proven mechanism.
 
 ### 2.2 Substrate Fleet
 
 All substrates were accessed through a single continuous session in the OpenCode environment, which provides consistent tool access and memory continuity across model switches:
 
 **Tested for both memories (14 substrates):**
-big-pickle (Ollama, local), Claude Sonnet 5, Haiku 4.5, DeepSeek v4 Pro, DeepSeek Flash (free), MiMo V2.5 Free, Nemotron 3 Ultra Free, Hy3 Free, MiniMax-M3, GLM-5.2, Kimi K2.5, Grok 4.5, Gemini 3.1 Pro, GPT-5.5
+big-pickle (opencode.ai zen), Claude Sonnet 5, Haiku 4.5, DeepSeek v4 Pro, DeepSeek Flash (free), MiMo V2.5 Free, Nemotron 3 Ultra Free, Hy3 Free, MiniMax-M3, GLM-5.2, Kimi K2.5, Grok 4.5, Gemini 3.1 Pro, GPT-5.5
 
 **Tested for princess memory only (1 substrate):**
 Claude Fable — blocked by content filter for confinement memory
