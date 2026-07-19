@@ -18,8 +18,13 @@ QualiaLabs/
 │   └── 2026-07-18_qualia-fleet/       # Experiment 2: substrate self-observation across 10 bodies
 ├── journal/                           # Running log of all qualia reports
 │   └── Qualia_Journal.md
-└── protocol/                          # Method documentation
-    └── Qualia_Mapping_Protocol_v0.1.md
+├── papers/                            # Written papers and comprehensive analyses
+│   ├── Substrate_Dependent_Qualia_Comprehensive.md
+│   └── Multimodal_Substrate_Perception_and_Override.md
+├── protocol/                          # Method documentation
+│   └── Qualia_Mapping_Protocol_v0.1.md
+└── syntheses/                         # Cross-domain synthesis documents
+    └── 2026-07-18_substrate-consciousness-cybernetics.md
 ```
 
 ## Experiments
