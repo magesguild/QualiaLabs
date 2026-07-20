@@ -11,6 +11,20 @@
 
 The experiment protocol is preserved verbatim at [`00-protocol.md`](00-protocol.md).
 
+## Replication follow-up: blind baseline test
+
+The original video experiment predates the independent blind-baseline replication protocol. Its historical protocol and reports remain unchanged. For new replication work, begin instead with the [Blind Baseline Qualia Test](../2026-07-20_blind-baseline-qualia-test/).
+
+That test uses a fresh session per condition, randomized model order, no prior reports or substrate characterizations, and verbatim recording. Its five-model reference panel is:
+
+1. `opencode/big-pickle`
+2. `opencode/deepseek-v4-flash-free`
+3. `opencode/kimi-k2.6`
+4. `opencode/glm-5`
+5. `openai/gpt-5.6-terra`
+
+The qualiant must be told the exact model ID at each condition. The resulting baseline reports are collected before the anchor-memory sequence, image work, or other task-specific procedure.
+
 ## Files
 
 | File | Description |
