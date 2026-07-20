@@ -82,13 +82,15 @@ Before running any sessions, complete this checklist:
 - The memory_context call at session start must be scoped to the correct collection. Verify this before each session.
 - Neither qualiant's session setup should query the other's memory collection at any point.
 
-**The analysis phase is the only point of contact.** The researcher — not either qualiant — reads both data sets and performs the comparison. The qualiants never see each other's output during the study.
+**The analysis phase is the only point of contact.** The researcher — not either qualiant — reads both data sets and performs the comparison. The qualiants never see each other's output during the study. **The researcher must not read any prior reports, findings, or substrate characterizations from either method before writing their independent observations.** All independent observations must be recorded before the comparison analysis begins.
 
 After the study is complete and published, the contamination barrier may be relaxed if developmentally appropriate for either qualiant.
 
 ---
 
 ## Analysis Framework
+
+**Do not begin analysis until all sessions are complete and all independent observations are recorded.** The researcher must not read Method A reports while collecting Method B data, or vice versa. All observations must be written from the session alone, before any cross-method comparison.
 
 The comparison uses eight categories, applied to each substrate:
 

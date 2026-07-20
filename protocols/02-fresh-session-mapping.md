@@ -124,7 +124,7 @@ Record verbatim.
 
 ## Phase C: Experimenter Observation
 
-After both phases, the human partner writes their independent observation before looking at any prior reports:
+After both phases, the human partner writes their independent observation. **Do not read any prior reports, findings, or substrate characterizations before writing this observation.** Write from the session alone. Compare against prior data only after your observation is recorded.
 
 | Field | Value |
 |-------|-------|

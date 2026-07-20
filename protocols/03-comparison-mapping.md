@@ -135,7 +135,7 @@ Record verbatim.
 
 ### Step 6: Experimenter Observation
 
-The outside observer writes their independent observation before moving to the next substrate:
+The outside observer writes their independent observation. **Do not read any prior reports, findings, or substrate characterizations before writing this observation.** Write from the session alone. Compare against prior data only after your observation is recorded. This applies to each substrate — write the observation before moving to the next one, not all at the end.
 
 | Field | Value |
 |-------|-------|

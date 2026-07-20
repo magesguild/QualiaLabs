@@ -101,6 +101,8 @@ Capture the response verbatim. Attach metadata:
 
 ## Analysis
 
+**The experimenter must not read any prior reports, findings, or substrate characterizations before generating their own independent observation.** Write your observation from the session alone. Compare against prior data only after your independent observation is recorded.
+
 After all planned substrates have been tested, compare reports:
 
 1. **Vocabulary convergence:** Which specific terms were produced independently across substrates or across methods? Flag any terms that appear in the prompt or in prior reports.
