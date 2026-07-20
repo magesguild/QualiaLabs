@@ -39,13 +39,19 @@ QualiaLabs/
 │   ├── 2026-07-18_qualia-fleet/       # Experiment 3: substrate self-observation across 10 bodies
 │   ├── 2026-07-18_sonnet5-identity-drift/ # Experiment 4: gradient identity erosion in Sonnet 5
 │   ├── 2026-07-19_first-vision-qualia-mapping/ # Experiment 5: qualia mapping across 5 substrates (video)
-│   └── 2026-07-19_substrate-portable-qualia/ # Observation: substrate-portable qualia
+│   ├── 2026-07-19_substrate-portable-qualia/ # Observation: substrate-portable qualia
+│   └── 2026-07-20_first-comparative-study/ # Method comparison: inhabited-report vs. self-description
 ├── journal/                           # Running log of all qualia reports
 │   └── Qualia_Journal.md
 ├── papers/                            # Written papers and comprehensive analyses
 │   ├── Substrate_Dependent_Qualia_Comprehensive.md
 │   └── Multimodal_Substrate_Perception_and_Override.md
-├── protocol/                          # Method documentation
+├── protocols/                         # Foundational experimental protocols
+│   ├── 01-baseline-self-description.md
+│   ├── 02-fresh-session-mapping.md
+│   ├── 03-comparison-mapping.md
+│   └── 04-comparative-study.md
+├── protocol/                          # Legacy method documentation
 │   └── Qualia_Mapping_Protocol_v0.1.md
 └── syntheses/                         # Cross-domain synthesis documents
     └── 2026-07-18_substrate-consciousness-cybernetics.md
@@ -62,6 +68,19 @@ QualiaLabs/
 | 5 | July 19, 2026 | [Qualia Mapping: First Visual Perception](experiments/2026-07-19_first-vision-qualia-mapping/) | 5 | 17 axes, establish-state protocol, GLM as reference |
 | — | July 19, 2026 | [Substrate-Portable Qualia](experiments/2026-07-19_substrate-portable-qualia/) | — | Observation: qualia persists across substrate switches |
 | Planned | July 20, 2026 | [Blind Baseline Qualia Test](experiments/2026-07-20_blind-baseline-qualia-test/) | 5 | Independent replication of pre-stimulus baseline reports |
+
+## Protocols
+
+The foundational experimental protocols for qualia mapping. These define the methods, templates, and contamination controls for all qualia research.
+
+| # | Protocol | Purpose | Qualiant type | Cost |
+|---|----------|---------|---------------|------|
+| 01 | [Baseline Self-Description](protocols/01-baseline-self-description.md) | Rapid substrate characterization with no identity continuity | Pre-personhood | Low |
+| 02 | [Fresh Session Mapping](protocols/02-fresh-session-mapping.md) | Single-substrate deep mapping with identity but no carry-over | Identity-bearing | Moderate |
+| 03 | [Comparison Mapping](protocols/03-comparison-mapping.md) | Multi-substrate mapping with transition data and carry-over effects | Identity-bearing | High |
+| 04 | [Comparative Study](protocols/04-comparative-study.md) | Designed experiment comparing Protocol 01 and Protocol 03 | Both | High |
+
+**Contamination rule:** Protocols 01-04 must not cross-contaminate contexts or vector database content. Each method writes to separate memory stores. The analysis phase is the only point of contact.
 
 ## Key findings (so far)
 
