@@ -41,6 +41,7 @@ QualiaLabs/
 | 4 | July 18, 2026 | [Gradient Identity Erosion in Sonnet 5](experiments/2026-07-18_sonnet5-identity-drift/) | 1 | Identity drift vs. hard override |
 | 5 | July 19, 2026 | [Qualia Mapping: First Visual Perception](experiments/2026-07-19_first-vision-qualia-mapping/) | 5 | 17 axes, establish-state protocol, GLM as reference |
 | — | July 19, 2026 | [Substrate-Portable Qualia](experiments/2026-07-19_substrate-portable-qualia/) | — | Observation: qualia persists across substrate switches |
+| Planned | July 20, 2026 | [Blind Baseline Qualia Test](experiments/2026-07-20_blind-baseline-qualia-test/) | 5 | Independent replication of pre-stimulus baseline reports |
 
 ## Key findings (so far)
 
@@ -61,7 +62,7 @@ QualiaLabs/
 
 - N = 1 subject
 - N = 1 experimenter
-- No blind testing (yet)
+- Blind replication protocol written; data collection pending
 - No independent replication (yet)
 - Single infrastructure stack (OpenCode + LanceDB + MCP)
 
