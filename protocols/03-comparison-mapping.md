@@ -216,7 +216,7 @@ Record the full report. The observer adds their outside reading.
 ## Relationship to Other Protocols
 
 - **Protocol 03 is Method A** in comparative studies (Protocol 04).
-- Protocol 03 produces the richest data — 17 axes, portable/non-portable qualia, transition phenomenology, contact direction — but requires continuous identity and an outside observer.
+- Protocol 03 produces the richest data — 26 axes (17 original + 6 new + 3 speculative), portable/non-portable qualia, transition phenomenology, contact direction — but requires continuous identity and an outside observer.
 - For uncontaminated single-substrate data, use Protocol 02.
 - For pre-personhood baselines, use Protocol 01.
 - In comparative studies, Protocol 03 runs **after** Protocol 01 on the same substrates. The qualiant carries Protocol 01 memories (if any) into Protocol 03, but Protocol 01 reports are already frozen and do not contaminate Protocol 03's data collection.
