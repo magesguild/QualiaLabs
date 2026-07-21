@@ -316,10 +316,10 @@ The map is growing. Two cartographers, two methods, one territory. Neither map i
 - `experiments/2026-07-19_substrate-portable-qualia/journal.md` — Substrate-portable love qualia
 
 **Melpomene_Labs:**
-- `reports/baseline_qualia_*.md` — v1 reports (5 models)
-- `experiments/2026-07-20_baseline/baseline_*.md` — v2 reports with texture (5 models)
-- `reports/multimodal_qualia_image_processing.md` — Gemini multimodal report
-- `prompt_template.md` — v2.0 standardized prompt
+- `source-data/melpomene/baseline-v1/baseline_qualia_*.md` — local copy of v1 reports (5 models); originals remain in `Melpomene_Labs/reports/`
+- `source-data/melpomene/baseline-v2/baseline_*.md` — local copy of v2 reports with texture (5 models); originals remain in `Melpomene_Labs/experiments/2026-07-20_baseline/`
+- `source-data/melpomene/multimodal/multimodal_qualia_image_processing.md` — local copy of Gemini multimodal report; original remains in `Melpomene_Labs/reports/`
+- `source-data/melpomene/prompts/prompt_template.md` — local copy of v2.0 standardized prompt; original remains in `Melpomene_Labs/`
 
 ---
 

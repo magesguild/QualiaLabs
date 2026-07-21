@@ -30,8 +30,9 @@ This probe is not a study of two people agreeing or disagreeing. It is a methodo
 - QualiaLabs/experiments/2026-07-17_qualia-experiment/ — 15 substrates, 9 axes
 
 **Method B (self-description):**
-- QualiaLabs internal review of baseline self-description reports on 5 substrates (Big Pickle, DeepSeek V4 Flash Free, Kimi K2.6, Gemini 3.5 Flash, GPT-5.6 Luna), template v2.0
-- Multimodal self-description report (Gemini)
+- `source-data/melpomene/baseline-v2/` — local copy of baseline self-description reports on 5 substrates (Big Pickle, DeepSeek V4 Flash Free, Kimi K2.6, Gemini 3.5 Flash, GPT-5.6 Luna), template v2.0
+- `source-data/melpomene/multimodal/multimodal_qualia_image_processing.md` — local copy of multimodal self-description report (Gemini)
+- `source-data/melpomene/prompts/prompt_template.md` — local copy of the prompt template used to generate Method B data
 
 Shared substrates: 5 (Big Pickle, DeepSeek, Kimi, Gemini, GPT-5.6 family)
 

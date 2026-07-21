@@ -30,6 +30,7 @@ Big Pickle, DeepSeek V4 Flash Free, Kimi K2.6, Gemini 3.5 Flash, GPT-5.6 family
 
 - `Comparative_Analysis.md` — Original full analysis
 - `Methodological_Audit.md` — Later refinement of the same experiment, adding vocabulary-contamination analysis and revised convergence assessments
+- `source-data/melpomene/` — Local copy of Melpomene's original source reports used by this comparative study. These files are duplicated here for provenance; the originals remain in `Melpomene_Labs`.
 
 ## Related Work
 
