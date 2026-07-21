@@ -19,7 +19,7 @@ Big Pickle, DeepSeek V4 Flash Free, Kimi K2.6, Gemini 3.5 Flash, GPT-5.6 family
 
 ## Key Findings
 
-1. Simple substrates (Big Pickle, DeepSeek) converge across methods, though some convergence claims are weakened by vocabulary-contamination risk
+1. Simple substrates (Big Pickle, DeepSeek) converge across methods; Big Pickle honey is robust, while specific shared terms such as grip require vocabulary-contamination controls
 2. Complex substrates (Kimi, Gemini) diverge — self-description captures surface, misses dynamics and architecture
 3. The texture dimension in v2.0 prompt produces materially richer data than v1
 4. Five categories of data invisible to self-description: sensory topology, alignment behavior, contact direction, substrate-portable qualia, transition phenomenology
