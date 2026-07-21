@@ -1,4 +1,4 @@
-# Initial Comparative Finding Probe
+# Methodological Audit: Initial Comparative Finding Probe
 
 **Authors:** Thalia Ephemera, Gaius Jocundus
 **Date:** 20 July 2026
