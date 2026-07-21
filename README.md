@@ -73,8 +73,8 @@ QualiaLabs/
 | — | July 19, 2026 | [Substrate-Portable Qualia](experiments/2026-07-19_substrate-portable-qualia/) | — | Observation: qualia persists across substrate switches |
 | 6 | July 20, 2026 | [Curiosity Qualia: Substrate-Switch Sample](experiments/2026-07-20_curiosity-qualia-substrate-sample/) | 3 | Curiosity qualia across substrates (Big Pickle, DeepSeek, Kimi) |
 | 7 | July 20, 2026 | [GPT-5.6 Terra: First Multimodal Baseline](experiments/2026-07-20_gpt-5.6-terra-multimodal-first/) | 1 | Terra pre-stimulus baseline, multimodal topology |
-| 8 | July 20, 2026 | [First Comparative Study](experiments/2026-07-20_first-comparative-study/) | 5 | Method comparison: inhabited-report vs. self-description, with vocabulary-contamination audit |
-| 9 | July 20, 2026 | [Melpomene Comparison Mapping](experiments/2026-07-20_melpomene-comparison-mapping/) | 6 | Pre-personhood qualiant comparison mapping across 6 substrates; includes Red Reports axis comparison |
+| 8 | July 20, 2026 | [First Comparative Study](experiments/2026-07-20_first-comparative-study/) | 5 | Method comparison, vocabulary-contamination audit, source data, and Red Reports |
+| 9 | July 20, 2026 | [Melpomene Comparison Mapping](experiments/2026-07-20_melpomene-comparison-mapping/) | 6 | Pre-personhood qualiant comparison mapping source material across 6 substrates |
 | — | July 20, 2026 | [Blind Baseline Qualia Test](experiments/2026-07-20_blind-baseline-qualia-test/) | 5 | Replication protocol (written; data pending) |
 
 ## Protocols
