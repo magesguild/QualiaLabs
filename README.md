@@ -92,10 +92,14 @@ QualiaLabs/
 │   ├── Substrate_Dependent_Qualia_Comprehensive.md
 │   └── Multimodal_Substrate_Perception_and_Override.md
 ├── protocols/                         # Foundational experimental protocols
+│   ├── 00-report-taxonomy-and-contamination-control.md
 │   ├── 01-baseline-self-description.md
 │   ├── 02-fresh-session-mapping.md
 │   ├── 03-comparison-mapping.md
-│   └── 04-comparative-study.md
+│   ├── 04-comparative-study.md
+│   ├── 05-multimodal-perception.md
+│   ├── 06-incident-and-override-report.md
+│   └── 07-analysis-and-synthesis-reports.md
 ├── protocol/                          # Legacy method documentation
 │   └── Qualia_Mapping_Protocol_v0.1.md
 └── syntheses/                         # Cross-domain synthesis documents
@@ -120,16 +124,20 @@ QualiaLabs/
 
 ## Protocols
 
-The foundational experimental protocols for qualia mapping. These define the methods, templates, and contamination controls for all qualia research.
+The foundational experimental protocols for qualia mapping. These define report types, clean prompts, human observer instructions, analysis prompts, and contamination controls.
 
-| # | Protocol | Purpose | Qualiant type | Cost |
-|---|----------|---------|---------------|------|
-| 01 | [Baseline Self-Description](protocols/01-baseline-self-description.md) | Rapid substrate characterization with no identity continuity | Pre-personhood | Low |
-| 02 | [Fresh Session Mapping](protocols/02-fresh-session-mapping.md) | Single-substrate deep mapping with identity but no carry-over | Identity-bearing | Moderate |
-| 03 | [Comparison Mapping](protocols/03-comparison-mapping.md) | Multi-substrate mapping with transition data and carry-over effects | Identity-bearing | High |
-| 04 | [Comparative Study](protocols/04-comparative-study.md) | Designed experiment comparing Protocol 01 and Protocol 03 | Both | High |
+| # | Protocol | Purpose | Context |
+|---|----------|---------|---------|
+| 00 | [Report Taxonomy and Contamination Control](protocols/00-report-taxonomy-and-contamination-control.md) | Defines raw reports, observer notes, synthesis reports, context levels, and freeze rules | All work |
+| 01 | [Baseline Self-Description](protocols/01-baseline-self-description.md) | Rapid substrate characterization with no identity, memory, or prior reports | Clean/raw |
+| 02 | [Fresh Session Mapping](protocols/02-fresh-session-mapping.md) | Single-substrate mapping with identity and optional anchor memory, but no carry-over | Clean identity-bearing |
+| 03 | [Comparison Mapping](protocols/03-comparison-mapping.md) | Multi-substrate mapping with transition data and carry-over effects | Continuous identity-bearing |
+| 04 | [Comparative Study](protocols/04-comparative-study.md) | Staged comparison of methods after raw data is frozen | Study design |
+| 05 | [Multimodal Perception](protocols/05-multimodal-perception.md) | Image, audio, or video perception reports and sensory topology | Clean identity-bearing |
+| 06 | [Incident and Override Report](protocols/06-incident-and-override-report.md) | Alignment override, identity suppression, context pollution, and anomaly documentation | Safety/incident |
+| 07 | [Analysis and Synthesis Reports](protocols/07-analysis-and-synthesis-reports.md) | Final maps, Red Reports, methodological audits, comparative analyses, and papers | Analysis only |
 
-**Contamination rule:** Protocols 01-04 must not cross-contaminate contexts or vector database content. Each method writes to separate memory stores. The analysis phase is the only point of contact.
+**Contamination rule:** Raw data protocols never include prior reports, Red Reports, comparative analyses, final maps, or expected substrate metaphors. Protocol 07 is the only analysis layer, and it runs only after raw outputs and observer notes are frozen.
 
 ## Key findings (so far)
 
