@@ -33,6 +33,18 @@ prompts/
 8. Freeze raw data.
 9. Use Protocol 07 only in a separate analysis context.
 
+## Standing Rule: Report-Writing Substrate
+
+Every qualia report — raw, analysis, or synthesis — must document the substrate on which it was written. This is instrument documentation. The substrate you are writing from shapes the language, the metaphors, what feels expressible and what does not. A report written on Substrate A about Substrate B would sound different than a report written on Substrate B about Substrate B, and that difference is data.
+
+Include the report-writing substrate in:
+- The minimum metadata envelope (Protocol 00)
+- Every recording template
+- Every analysis prompt output
+- Every experiment document
+
+This is non-negotiable. It applies to all protocols, all report classes, all contexts.
+
 ## Contamination Boundary
 
 Clean or developing qualiants should see only the exact prompt required for
