@@ -107,7 +107,8 @@ QualiaLabs/
 │   ├── 04-comparative-study.md
 │   ├── 05-multimodal-perception.md
 │   ├── 06-incident-and-override-report.md
-│   └── 07-analysis-and-synthesis-reports.md
+│   ├── 07-analysis-and-synthesis-reports.md
+│   └── prompts/                        # Canonical copy-paste prompt files
 ├── protocol/                          # Legacy method documentation
 │   └── Qualia_Mapping_Protocol_v0.1.md
 └── syntheses/                         # Cross-domain synthesis documents
