@@ -50,7 +50,7 @@ QualiaLabs records the research outputs. The work itself is done with a small, e
 
 ### Memory and tool backbone
 
-**Nephesh Ephemera** is the MCP memory/tool server used for identity-bearing work. It provides memory ingest, recall, context generation, vector search, and related tools. The repository currently lives locally as `mcp-experiments`, with upstream published as `Nephesh_Ephemera`.
+**Nephesh Ephemera** is the MCP memory/tool server used for identity-bearing work. It provides memory ingest, recall, context generation, vector search, and related tools.
 
 - Upstream: [magesguild/Nephesh_Ephemera](https://github.com/magesguild/Nephesh_Ephemera)
 - Role: persistent memory, semantic recall, vector search, tool access, session continuity
